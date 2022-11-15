@@ -1,0 +1,18 @@
+series code;series no;series description;view's full name
+- Architectural Views
+A;100;Architectural Plan;A100 Architectural Plan
+A;150;Architectural RCP;A150 Architectural RCP
+A;200;Architectural Section;A200 Architectural Section
+A;300;Architectural Elevation;A300 Architectural Elevation
+A;400;Architectural Detail;A400 Architectural Detail
+A;450;Architectural Detail;A450 Architectural Legend
+A;500;Architectural 3d View;A500 Architectural 3d View
+
+-Structural Views
+B;100;Structural Plan;B100 Structural Plan
+B;150;Structural RCP;B150 Structural RCP
+B;200;Structural Section;B200 Structural Section
+B;300;Structural Elevation;B300 Structural Elevation
+B;400;Structural Detail;B400 Structural Detail
+B;450;Structural Detail;B450 Structural Legend
+B;500;Structural 3d View;B500 Structural 3d View
