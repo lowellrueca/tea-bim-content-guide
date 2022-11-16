@@ -1,0 +1,6 @@
+16 Nov '22:
+    project browser set up:
+        - view, sheets and schedule settings for sorting and grouping done and to be incorporate in the project models.
+    reloading workflow of families:
+        - determining the workflow of reloading the families with pre-determined datas
+          in the project model in progress.
