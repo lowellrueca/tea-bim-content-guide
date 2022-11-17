@@ -1,0 +1,29 @@
+Attribute Key;Attribute Description
+A Series - Walls without Finishing
+AAC100A;100mm thk AAC Block
+ALC100A;100mm thk ALC Block
+BW100A;100mm thk Brickwall
+BW150A;150mm thk Brickwall
+BW200A;200mm thk Brickwall
+
+B Series - Walls with Finishing on Side
+AAC100B;100mm thk AAC Block with Finishing on 1 Side
+ALC100B;100mm thk ALC Block with Finishing on 1 Side
+BW100B;100mm thk Brickwall with Finishing on 1 Side
+BW150B;150mm thk Brickwall with Finishing on 1 Side
+BW200B;200mm thk Brickwall with Finishing on 1 Side
+
+DW50B;50mm Stud with Finishing on 1 Side
+DW75B;75mm Stud with Finishing on 1 Side
+DW100B;100mm Stud with Finishing on 1 Side
+
+C Series - Walls with Finishing on Both Sides
+AAC100C;AAC100C - 100mm thk AAC Block with Finishing on Both Side
+ALC100C;ALC100C - 100mm thk ALC Block with Finishing on Both Side
+BW100C;BW100C - 100mm thk Brickwall with Finishing on Both Sides
+BW150C;BW150C - 150mm thk Brickwall with Finishing on Both Sides
+BW200C;BW200C - 200mm thk Brickwall with Finishing on Both Sides
+
+DW50C;DW50C - 50mm Stud with Finishing on Both Sides
+DW75C;DW75C - 75mm Stud with Finishing on Both Sides
+DW100C;DW100C - 100mm Stud with Finishing on Both Sides
