@@ -1,0 +1,9 @@
+TD1A-01 - Single Leaf, Single Rabbet Frame Timber Door
+TD1A-02 - Single Leaf, Single Rabbet Frame 1hr Fire Rated Timber Door
+TD1A-03 - Single Leaf, Single Rabbet Frame 1hr Fire Rated Acoustic STC35 Rated Timber Door
+TD1A-04 - Single Leaf, Single Rabbet Frame 1hr Fire Rated Acoustic STC45 Rated Timber Door
+TD1A-05 - Single Leaf, Single Rabbet Frame 1hr Fire Rated Acoustic STC55 Rated Timber Door
+TD1A-06 - Single Leaf, Single Rabbet Frame 2hr Fire Rated Timber Door
+TD1A-07 - Single Leaf, Single Rabbet Frame 2hr Fire Rated Acoustic STC35 Rated Timber Door
+TD1A-08 - Single Leaf, Single Rabbet Frame 2hr Fire Rated Acoustic STC45 Rated Timber Door
+TD1A-09 - Single Leaf, Single Rabbet Frame 2hr Fire Rated Acoustic STC55 Rated Timber Door
