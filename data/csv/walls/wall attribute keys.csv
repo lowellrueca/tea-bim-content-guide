@@ -1,29 +1,25 @@
-Attribute Key;Attribute Description
-A Series - Walls without Finishing
-AAC100A;100mm thk AAC Block
-ALC100A;100mm thk ALC Block
-BW100A;100mm thk Brickwall
-BW150A;150mm thk Brickwall
-BW200A;200mm thk Brickwall
+Wall Set;Wall Type No.;Wall Definition;Total Thickness;Fire Rating;STC Rating;Wall Family Full Name;Description
+- 100mm thk Brickwall without finishing
+BW10A;01;;;;;BW10A.01 - BW100;100mm thk Brickwall
 
-B Series - Walls with Finishing on Side
-AAC100B;100mm thk AAC Block with Finishing on 1 Side
-ALC100B;100mm thk ALC Block with Finishing on 1 Side
-BW100B;100mm thk Brickwall with Finishing on 1 Side
-BW150B;150mm thk Brickwall with Finishing on 1 Side
-BW200B;200mm thk Brickwall with Finishing on 1 Side
+- 100mm thk Brickwall with Finishing on 1 Side
+BW10B;01;BW100+PL15;T115;;;BW10B.01 - BW100+PL15, T115;100mm thk Brickwall with 15mm thk Plaster Finish
+BW10B;02;BW100+PL15;T115;FR1;;BW10B.02 - BW100+PL15, T115, FR1;100mm thk Brickwall with 15mm thk Plaster, 1hr Fire Rating
+BW10B;03;BW100+PL15;T115;FR1;STC45;BW10B.03 - BW100+PL15, T115, FR1, STC45;100mm thk Brickwall with 15mm thk Plaster, 1hr Fire Rating + STC45
+BW10B;04;BW100+PL15;T115;FR1;STC35;BW10B.04 - BW100+PL15, T115, FR1, STC35;100mm thk Brickwall with 15mm thk Plaster, 1hr Fire Rating + STC35
+BW10B;05;BW100+PL15;T115;FR1;STC55;BW10B.05 - BW100+PL15, T115, FR1, STC55;100mm thk Brickwall with 15mm thk Plaster, 1hr Fire Rating + STC55
+BW10B;06;BW100+PL15;T115;FR2;;BW10B.06 - BW100+PL15, T115, FR2;100mm thk Brickwall with 15mm thk Plaster, 2hr Fire Rating
+BW10B;07;BW100+PL15;T115;FR2;STC45;BW10B.07 - BW100+PL15, T115, FR2, STC45;100mm thk Brickwall with 15mm thk Plaster, 2hr Fire Rating + STC45
+BW10B;08;BW100+PL15;T115;FR2;STC35;BW10B.08 - BW100+PL15, T115, FR2, STC35;100mm thk Brickwall with 15mm thk Plaster, 2hr Fire Rating + STC35
+BW10B;09;BW100+PL15;T115;FR2;STC55;BW10B.09 - BW100+PL15, T115, FR2, STC55;100mm thk Brickwall with 15mm thk Plaster, 2hr Fire Rating + STC55
 
-DW50B;50mm Stud with Finishing on 1 Side
-DW75B;75mm Stud with Finishing on 1 Side
-DW100B;100mm Stud with Finishing on 1 Side
-
-C Series - Walls with Finishing on Both Sides
-AAC100C;AAC100C - 100mm thk AAC Block with Finishing on Both Side
-ALC100C;ALC100C - 100mm thk ALC Block with Finishing on Both Side
-BW100C;BW100C - 100mm thk Brickwall with Finishing on Both Sides
-BW150C;BW150C - 150mm thk Brickwall with Finishing on Both Sides
-BW200C;BW200C - 200mm thk Brickwall with Finishing on Both Sides
-
-DW50C;DW50C - 50mm Stud with Finishing on Both Sides
-DW75C;DW75C - 75mm Stud with Finishing on Both Sides
-DW100C;DW100C - 100mm Stud with Finishing on Both Sides
+- 100mm thk Brickwall with Finishing on Both Sides
+BW10C;01;PL15+BW100+PL15;T130;;;BW10C.01 - PL15+BW100+PL15, T130;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides
+BW10C;02;PL15+BW100+PL15;T130;FR1;;BW10C.02 - PL15+BW100+PL15, T130, FR1;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides, 1hr Fire Rating
+BW10C;03;PL15+BW100+PL15;T130;FR1;STC45;BW10C.03 - PL15+BW100+PL15, T130, FR1, STC45;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides, 1hr Fire Rating + STC45
+BW10C;04;PL15+BW100+PL15;T130;FR1;STC35;BW10C.04 - PL15+BW100+PL15, T130, FR1, STC35;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides, 1hr Fire Rating + STC35
+BW10C;05;PL15+BW100+PL15;T130;FR1;STC55;BW10C.05 - PL15+BW100+PL15, T130, FR1, STC55;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides, 1hr Fire Rating + STC55
+BW10C;06;PL15+BW100+PL15;T130;FR2;;BW10C.06 - PL15+BW100+PL15, T130, FR2;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides, 2hr Fire Rating
+BW10C;07;PL15+BW100+PL15;T130;FR2;STC45;BW10C.07 - PL15+BW100+PL15, T130, FR2, STC45;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides, 2hr Fire Rating + STC45
+BW10C;08;PL15+BW100+PL15;T130;FR2;STC35;BW10C.08 - PL15+BW100+PL15, T130, FR2, STC35;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides, 2hr Fire Rating + STC35
+BW10C;09;PL15+BW100+PL15;T130;FR2;STC55;BW10C.09 - PL15+BW100+PL15, T130, FR2, STC55;100mm thk Brickwall with 15mm thk Plaster Finish Both Sides, 2hr Fire Rating + STC55
