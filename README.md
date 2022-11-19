@@ -1,2 +1,2 @@
-# tea-scripts
-scripting project for BIM
+# tea-bim-content-guide
+content guide for BIM
